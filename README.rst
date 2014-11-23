@@ -2,6 +2,9 @@
 Drum
 ====
 
+This version is FORKED!
+-----------------------
+
 Created by `Stephen McDonald <http://twitter.com/stephen_mcd>`_
 
 Drum is a Reddit / Hacker News clone, built using `Mezzanine`_
